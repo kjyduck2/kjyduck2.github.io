@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Let's get started : C#"
+date:   2023-01-23 
+categories: [C#]
+---
+EssentialC# 과 Unit Test를 공부하고 이곳에 리뷰하겠다.
